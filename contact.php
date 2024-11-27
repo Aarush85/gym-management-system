@@ -73,9 +73,9 @@ echo "<script>window.location.href='booking-history.php'</script>";
 			<div class="row">
 
 				<div class="col-lg-12 col-sm-6">
-<p><strong>Email:</strong> info@yourdomain.com</p>
-<p><strong>Contact No:</strong> 1234567890, 1122334455</p>
-<p><strong>Address:</strong> Test Address</p>
+<p><strong>Email:</strong> snjeevkumar@gmail.com</p>
+<p><strong>Contact No:</strong> 9872608749</p>
+<p><strong>Address:</strong> 72,Mahindra Colony road,basti sheikh darwesh,Jalandhar, Punjab 144003</p>
 				</div>
 			</div>
 		</div>
